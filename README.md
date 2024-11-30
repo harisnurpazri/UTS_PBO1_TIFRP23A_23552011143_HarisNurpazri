@@ -6,7 +6,7 @@
 
 ## Profil
 <ul>
-  <li>Nama: Haris Barcode</li>
+  <li>Nama: Haris Nurpazri</li>
   <li>NIM: 23552011143</li>
   <li>Studi Kasus: Sistem Informasi Akademik</li>
 </ul>
